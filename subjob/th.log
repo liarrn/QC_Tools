@@ -1,0 +1,20 @@
+cd  /vol-th/home/Chgy/liyd/MJ_TH_test/Pd/Pd-O2/1112; yhbatch -N 1 -n 12 -p TH_NET -J O21112 RunVASP.5.4.1.sh
+std out: Submitted batch job 4845022
+std err: 
+
+cd  /vol-th/home/Chgy/liyd/MJ_TH_test/Pd/Pd-O2/111; yhbatch -N 1 -n 12 -p TH_NET -J O2111 RunVASP.5.4.1.sh
+std out: Submitted batch job 4845023
+std err: 
+
+cd  /vol-th/home/Chgy/liyd/MJ_TH_test/Pd/Pd-CO/111; yhbatch -N 1 -n 12 -p TH_NET -J CO111 RunVASP.5.4.1.sh
+std out: Submitted batch job 4845024
+std err: 
+
+cd  /vol-th/home/Chgy/liyd/MJ_TH_test/Pd/Pd-H2/111; yhbatch -N 1 -n 12 -p TH_NET -J H2111 RunVASP.5.4.1.sh
+std out: Submitted batch job 4845025
+std err: 
+
+cd  /vol-th/home/Chgy/liyd/MJ_TH_test/Pd/Pd-H2/110; yhbatch -N 1 -n 12 -p TH_NET -J H2110 RunVASP.5.4.1.sh
+std out: Submitted batch job 4845026
+std err: 
+

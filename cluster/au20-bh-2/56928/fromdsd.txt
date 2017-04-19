@@ -1,0 +1,7 @@
+1463045474	custom	UpdateInterval	60
+1463045474	custom	MpiNumProcessors	12
+1463045474	custom	commandline	true
+1463045474	custom	SeedName	au20
+1463045474	custom	job-name	au20
+1463045474	custom	run-item	au20!
+1463045474	custom	ScriptArguments	au20

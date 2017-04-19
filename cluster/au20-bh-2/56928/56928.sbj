@@ -1,0 +1,10 @@
+job-directory=.
+job-type=synchronous
+job-processid=6245
+job-primary-processid=6245
+job-killsignal=2
+job-grace-period=20
+job-cpu-number=12
+job-stdout-redirect=1
+job-processid=6360
+job-status=running

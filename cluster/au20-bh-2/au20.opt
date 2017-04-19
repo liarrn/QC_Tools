@@ -1,0 +1,9 @@
+$opt
+TITLE   dmol3 opt file
+TSFLAG  f
+TOLE       0.0000200000
+TOLG       0.0021167088
+TOLD       0.0094486306
+MAXITER  300
+DMAX     0.56691784    
+$end

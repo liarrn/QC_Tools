@@ -1,0 +1,24 @@
+ 
+     ===============================================================
+     Materials Studio DMol^3 version 4.0
+     compiled on Dec 19 2005 03:04:15
+     ===============================================================
+ 
+     ===============================================================
+     Density Functional Theory Electronic Structure Program
+     Copyright (c) 2005, Accelrys Inc. All rights reserved.
+     Cite work using this program as: 
+     B. Delley, J. Chem. Phys. 92,  508  (1990).
+     B. Delley, J. Chem. Phys. 113, 7756 (2000).
+     DMol^3 is available as part of Materials Studio.
+     ===============================================================
+ 
+ 
+DATE:     Jan 14 09:18:59 2013
+ 
+This run uses    8 processors
+
+Basis set is read from file:
+/home/MSI/MSI4.0/Data/Resources/Quantum/DMol3/BASFILE_v3.5                                                                                                                                                                                                      
+
+Message: License checkin of MS_dmol successful

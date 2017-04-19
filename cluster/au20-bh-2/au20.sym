@@ -1,0 +1,21 @@
+
+$symmetry    for gradient and vector transformations by msi optimizer
+Period  F
+NATOMS    20
+NZ         0
+GROUP    C1
+NTrans     1
+NDEG      54
+rotation_matrix:
+    1.00000000000000    0.00000000000000    0.00000000000000
+    0.00000000000000    1.00000000000000    0.00000000000000
+    0.00000000000000    0.00000000000000    1.00000000000000
+sym_unique_atoms:   20
+   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20
+symmetry_operation
+    1.00000000000000    0.00000000000000    0.00000000000000
+    0.00000000000000    1.00000000000000    0.00000000000000
+    0.00000000000000    0.00000000000000    1.00000000000000
+equiv_atoms_array: atom transformation table
+       1       2       3       4       5       6       7       8       9      10      11      12      13      14      15      16      17      18      19      20
+$end

@@ -1,0 +1,30 @@
+====================================================
+                  DMol3 Run Status                  
+====================================================
+ 
+Job Name            :        au20                                                                                                                                
+Task                :        Geometry Optimization                   
+Basis               :        dnp                 
+Atom_Rcut           :        4.000 Angstrom
+Functional          :        pbe                 
+Harris              :        off  
+Integration Grid    :        medium              
+Occupation          :        thermal       0.0050
+Pseudopotential     :        dspp                
+ 
+Optimization Step   :           26
+ 
+SCF Iteration       :            9
+SCF Energy          :     -4233.7519769 Hartree
+SCF Convergence     :         0.0000315
+ 
+Total Energy        :     -4233.7430108 Hartree
+Energy Change       :         0.0172302 Hartree
+Max Gradient        :         0.1191147 Ha/Ang
+Max Displacement    :         0.0301080 Angstrom
+ 
+Energy Toler.       :         0.0000200 Hartree
+Gradient Toler.     :         0.0040000 Ha/Ang
+Displacement Toler. :         0.0050000 Angstrom
+ 
+====================================================

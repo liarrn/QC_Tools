@@ -1,0 +1,2 @@
+job-id=56928
+dsd_root=/home/liyd/opt/Accelrys/MaterialsStudio7.0/etc/Gateway/root_default/dsd

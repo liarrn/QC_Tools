@@ -1,0 +1,56 @@
+1463045474	progress		-1
+1463045476	status	new	running
+1463045477	message		License checkout of MS_dmol successful
+1463045477	message		Warning: dspp            takes precedence over using  symmetrized basis
+1463045477	message		Warning: Existing Hessian file deleted.
+1463045477	message		Warning: no SYM file, no symmetry used in vibrational analysis
+1463045477	message		Warning: at least C1 SYM file should be there for optgeom
+1463045499	message		SCF converged
+1463045526	message		SCF converged
+1463045541	message		SCF converged
+1463045546	message		Warning: Magnitude of eigenvalue  31 too large.  Replaced by    25.000000
+1463045561	message		SCF converged
+1463045566	message		Warning: Magnitude of eigenvalue  33 too large.  Replaced by    25.000000
+1463045581	message		SCF converged
+1463045581	message		Warning: Magnitude of eigenvalue  35 too large.  Replaced by    25.000000
+1463045596	message		SCF converged
+1463045601	message		Warning: Magnitude of eigenvalue  37 too large.  Replaced by    25.000000
+1463045616	message		SCF converged
+1463045621	message		Warning: Magnitude of eigenvalue  39 too large.  Replaced by    25.000000
+1463045636	message		SCF converged
+1463045641	message		Warning: Magnitude of eigenvalue  41 too large.  Replaced by    25.000000
+1463045651	message		SCF converged
+1463045656	message		Warning: Magnitude of eigenvalue  43 too large.  Replaced by    25.000000
+1463045671	message		SCF converged
+1463045671	message		Warning: Magnitude of eigenvalue  45 too large.  Replaced by    25.000000
+1463045691	message		SCF converged
+1463045691	message		Warning: Magnitude of eigenvalue  47 too large.  Replaced by    25.000000
+1463045711	message		SCF converged
+1463045711	message		Warning: Magnitude of eigenvalue  48 too large.  Replaced by    25.000000
+1463045711	message		Warning: Magnitude of eigenvalue  47 too large.  Replaced by    25.000000
+1463045726	message		SCF converged
+1463045731	message		Warning: Magnitude of eigenvalue  49 too large.  Replaced by    25.000000
+1463045731	message		Warning: Magnitude of eigenvalue  48 too large.  Replaced by    25.000000
+1463045751	message		SCF converged
+1463045751	message		Warning: Magnitude of eigenvalue  50 too large.  Replaced by    25.000000
+1463045751	message		Warning: Magnitude of eigenvalue  49 too large.  Replaced by    25.000000
+1463045766	message		SCF converged
+1463045771	message		Warning: Magnitude of eigenvalue  51 too large.  Replaced by    25.000000
+1463045771	message		Warning: Magnitude of eigenvalue  50 too large.  Replaced by    25.000000
+1463045786	message		SCF converged
+1463045786	message		Warning: Magnitude of eigenvalue  52 too large.  Replaced by    25.000000
+1463045786	message		Warning: Magnitude of eigenvalue  51 too large.  Replaced by    25.000000
+1463045801	message		SCF converged
+1463045806	message		Warning: Magnitude of eigenvalue  53 too large.  Replaced by    25.000000
+1463045806	message		Warning: Exceeded allowed number of iterative cycles in get_card
+1463045806	message		Warning: Backtransformation failed
+1463045806	message		New Coordinates will be constructed
+1463045806	message		Number degrees of freedom was redefined                     57
+1463045821	message		SCF converged
+1463045841	message		SCF converged
+1463045861	message		SCF converged
+1463045876	message		SCF converged
+1463045896	message		SCF converged
+1463045916	message		SCF converged
+1463045931	message		SCF converged
+1463045951	message		SCF converged
